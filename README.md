@@ -5,7 +5,7 @@ This repository contains a variety of Assembly examples for use with LMC.
 
 ## Examples
 
-- Coming soon...
+- [Basic Calculator](examples/basic_calc.asm)
 
 ## License
 
