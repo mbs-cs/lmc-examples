@@ -3,9 +3,12 @@ Little Man Computer Examples
 
 This repository contains a variety of Assembly examples for use with LMC.
 
-## Examples
+## Programs
 
 - [Basic Calculator](examples/basic_calc.asm)
+- [Dual-Function Calculator](examples/improved_calc.asm)
+- [Basic Label Usage](examples/labels_basic.asm)
+- [Advanced Label Usage](examples/labels_advanced.asm)
 
 ## License
 
